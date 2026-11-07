@@ -71,6 +71,7 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 
 - [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
 - [Construct Arcade](https://constructarcade.com/) - A curated hub of WebXR games, with games from both outside developers and in-house developers at Vhite Rabbit.
+- [NXT/WebXR](https://www.nxtwebxr.com/) - A free catalogue of WebXR games and experiences for Meta Quest and Pico, browsed as a feed of 3D trailers in your own room, in English and Japanese.
 - [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 - [XRSites](https://xrsites.com/) - An aggregator for WebXR games and experiences.
 

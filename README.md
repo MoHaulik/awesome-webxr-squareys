@@ -28,6 +28,8 @@ WebXR comprises a group of standards that allow browsers to access virtual and a
 - [Hello WebXR](https://mixedreality.mozilla.org/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases just a bit of what's possible with WebXR.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
 - [Dudes!](https://dudes.gatunes.com/) - A 3D voxel engine built by [Daniel Esteban](https://github.com/danielesteban) with three.js and C compiled to WASM. It features WebXR support, physics, pathfinding, a multiplayer-enabled VR sculpting mode with the ability to import/export creations, and more.
+- [Meows Freaky Fishstick Factory](https://www.nxtwebxr.com/fishstickfactory/) - A mixed reality rage game by Morten Haulik: you are a cat on a fish stick conveyor belt, swatting the weird fish sticks before your boss sees.
+- [die Hände](https://www.nxtwebxr.com/diehaende/) - A mixed reality experience by NXT/WebXR played with your bare hands: a dead hand under glass copies yours, until it wants to play you.
 
 ## Art
 
